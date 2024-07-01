@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RBOP04-rescue")(type "Legacy")(uri "${KIPRJMOD}/RBOP04_Flexible-rescue.lib")(options "")(descr ""))
+  (lib (name "AHT20")(type "Legacy")(uri "/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/Footprints/AHT20/AHT20.lib")(options "")(descr ""))
+  (lib (name "ESP32")(type "Legacy")(uri "/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/Footprints/ESP32-WROOM-32E__16MB_/ESP32-WROOM-32E__16MB_.lib")(options "")(descr ""))
+  (lib (name "LTC3532")(type "KiCad")(uri "/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/Footprints/ul_LTC3532EMS-PBF/KiCADv6/2023-08-15_05-06-33.kicad_sym")(options "")(descr ""))
+  (lib (name "Button")(type "KiCad")(uri "/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/Footprints/TL3305AF160QG/TL3305AF160QG.kicad_sym")(options "")(descr ""))
+  (lib (name "Battery Holder")(type "KiCad")(uri "/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/Footprints/ul_2462/KiCADv6/2023-08-15_06-29-00.kicad_sym")(options "")(descr ""))
+  (lib (name "Luis Lib")(type "KiCad")(uri "/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/Footprints/Lui KiCAD/2023-04-21_01-42-39/2023-04-21_01-42-39.kicad_sym")(options "")(descr ""))
+)

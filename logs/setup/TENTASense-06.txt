@@ -1,0 +1,14 @@
+/TENTASense-06.txt
+Battery: 405 mV
+01100900S1H36.95T23.11
+01100900S2H36.15T23.13
+01100900S3H35.41T23.74
+Battery: 436 mV
+01100904S1H36.57T23.23
+01100904S2H36.39T23.31
+01100904S3H35.28T23.98
+Date and time updated to 01110921
+Date and time updated to 01120921
+Date and time updated to 02120921
+Date and time updated to 02121021
+Date and time updated to 02121022

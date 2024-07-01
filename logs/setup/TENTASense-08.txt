@@ -1,0 +1,8 @@
+/TENTASense-08.txt
+Date and time updated to 02100900
+Date and time updated to 02101000
+Date and time updated to 02101001
+Battery: 356 mV
+02101001S1H33.16T23.70
+02101001S2H34.10T23.79
+02101001S3H37.12T23.63

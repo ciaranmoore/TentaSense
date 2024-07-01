@@ -1,0 +1,21 @@
+/TENTASense-11.txt
+Date and time updated to 01110900
+Date and time updated to 02110900
+Date and time updated to 02111000
+Date and time updated to 02111001
+Battery: 390 mV
+02111001S1H37.47T23.35
+02111001S2H36.39T23.27
+02111001S3H35.00T23.60
+Date and time updated to 02111105
+Date and time updated to 02111106
+Date and time updated to 03111106
+Date and time updated to 03121106
+Date and time updated to 03011106
+Date and time updated to 04011106
+Date and time updated to 04011206
+Date and time updated to 04011207
+Battery: 447 mV
+04011208S1H36.94T23.36
+04011208S2H35.97T23.41
+04011208S3H33.73T24.26

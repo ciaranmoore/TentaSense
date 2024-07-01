@@ -1,0 +1,14 @@
+/TENTASense-04.txt
+/TENTASense-04.txt
+Date and time updated to 01110900
+Date and time updated to 01120900
+Date and time updated to 02120900
+Date and time updated to 03120900
+Date and time updated to 03121000
+Date and time updated to 03121100
+Date and time updated to 03121101
+Date and time updated to 03121102
+Battery: 441 mV
+03121102S1H35.70T23.54
+03121102S2H38.06T23.84
+03121102S3H35.94T24.19

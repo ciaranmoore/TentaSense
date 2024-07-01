@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/RBOP04/RBOP04.kicad_sch</source>
+    <date>2023 September 07, Thursday 15:02:13</date>
+    <tool>Eeschema 7.0.6-0</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RBOP04.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="B1">
+      <value>2462</value>
+      <footprint>Battery:BatteryHolder_Keystone_2462_2xAA_CM</footprint>
+      <datasheet>2462</datasheet>
+      <libsource lib="Battery Holder" part="2462" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_keywords" value="2462"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d23f4da3-1999-4c28-9b0d-50af973546b2</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064bb78b6</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>4.7n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064bbf4fd</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.01u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064b9b4c4</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb072934-e080-48d1-903e-a218548c8593</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064c8100f</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>150p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064bc1f0e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>150p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064bc4125</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064bc4d51</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064b58890</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064b59626</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064b5a95c</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>4.7u</value>
+      <footprint>Inductor_SMD:L_2424_6060Metric</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064b8b2d4</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064bc033a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>905845cb-2f4a-42ac-8880-3e92f125cb00</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064b9982e</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2a0cb8b-e0ca-43ef-86e7-96dfea83d09c</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b54a974-b545-4758-b3d5-fa28fb996634</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064c7ea2e</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>12k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064bc1461</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>150k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c42d8549-5f15-46cd-a192-bd86e35759b1</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>150k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064bc305d</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>22k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4166517d-151c-4652-b840-01827dc48391</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064bc27bb</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31aa0ae1-1fe0-4190-b98f-31efb8d842ee</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064bc34f5</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a963cab-afa8-4dd8-9459-2ba81bdbec6a</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c957e709-70d0-4acf-a746-ebe8d7ba6d86</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3984405-32b6-4c86-8898-e44def99764f</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1e2282c-5b74-4b22-99cc-ae01ddfc8a58</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8461692e-db08-4021-9c26-b59dea2dafac</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b807f45-8391-4da1-9b7b-b27e46d6d171</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3882b020-9526-4217-aa02-59435ca69cb0</tstamps>
+    </comp>
+    <comp ref="Rt1">
+      <value>82k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064c4cb91</tstamps>
+    </comp>
+    <comp ref="Rt2">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbf5b3d3-6f95-40c5-9a75-c49e297eed5f</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>TL3305AF160QG</value>
+      <footprint>Button:SW_TL3305AF160QG</footprint>
+      <fields>
+        <field name="Check_prices">https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=eda</field>
+        <field name="Description">
+Tactile Switch SPST-NO Top Actuated Surface Mount
+</field>
+        <field name="DigiKey_Part_Number">EG5350TR-ND</field>
+        <field name="MANUFACTURER">E-Switch</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.8 mm</field>
+        <field name="MF">E-Switch</field>
+        <field name="MP">TL3305AF160QG</field>
+        <field name="PARTREV">C</field>
+        <field name="Package">None</field>
+        <field name="Purchase-URL">https://pricing.snapeda.com/search?q=TL3305AF160QG&amp;ref=eda</field>
+        <field name="SNAPEDA_PN">TL3305AF160QG</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Button" part="TL3305AF160QG" description=""/>
+      <property name="DigiKey_Part_Number" value="EG5350TR-ND"/>
+      <property name="MF" value="E-Switch"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.8 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=snap"/>
+      <property name="MP" value="TL3305AF160QG"/>
+      <property name="Purchase-URL" value="https://pricing.snapeda.com/search?q=TL3305AF160QG&amp;ref=eda"/>
+      <property name="Description" value="&#xA;Tactile Switch SPST-NO Top Actuated Surface Mount&#xA;"/>
+      <property name="MANUFACTURER" value="E-Switch"/>
+      <property name="SNAPEDA_PN" value="TL3305AF160QG"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cfdd531-68f9-4fdc-880e-da1483e46433</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>TL3305AF160QG</value>
+      <footprint>Button:SW_TL3305AF160QG</footprint>
+      <fields>
+        <field name="Check_prices">https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=eda</field>
+        <field name="Description">
+Tactile Switch SPST-NO Top Actuated Surface Mount
+</field>
+        <field name="DigiKey_Part_Number">EG5350TR-ND</field>
+        <field name="MANUFACTURER">E-Switch</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.8 mm</field>
+        <field name="MF">E-Switch</field>
+        <field name="MP">TL3305AF160QG</field>
+        <field name="PARTREV">C</field>
+        <field name="Package">None</field>
+        <field name="Purchase-URL">https://pricing.snapeda.com/search?q=TL3305AF160QG&amp;ref=eda</field>
+        <field name="SNAPEDA_PN">TL3305AF160QG</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Button" part="TL3305AF160QG" description=""/>
+      <property name="DigiKey_Part_Number" value="EG5350TR-ND"/>
+      <property name="MF" value="E-Switch"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.8 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=snap"/>
+      <property name="MP" value="TL3305AF160QG"/>
+      <property name="Purchase-URL" value="https://pricing.snapeda.com/search?q=TL3305AF160QG&amp;ref=eda"/>
+      <property name="Description" value="&#xA;Tactile Switch SPST-NO Top Actuated Surface Mount&#xA;"/>
+      <property name="MANUFACTURER" value="E-Switch"/>
+      <property name="SNAPEDA_PN" value="TL3305AF160QG"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a658bec-5786-42cd-958c-c3f0fada28c9</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>TL3305AF160QG</value>
+      <footprint>Button:SW_TL3305AF160QG</footprint>
+      <fields>
+        <field name="Check_prices">https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=eda</field>
+        <field name="Description">
+Tactile Switch SPST-NO Top Actuated Surface Mount
+</field>
+        <field name="DigiKey_Part_Number">EG5350TR-ND</field>
+        <field name="MANUFACTURER">E-Switch</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.8 mm</field>
+        <field name="MF">E-Switch</field>
+        <field name="MP">TL3305AF160QG</field>
+        <field name="PARTREV">C</field>
+        <field name="Package">None</field>
+        <field name="Purchase-URL">https://pricing.snapeda.com/search?q=TL3305AF160QG&amp;ref=eda</field>
+        <field name="SNAPEDA_PN">TL3305AF160QG</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Button" part="TL3305AF160QG" description=""/>
+      <property name="DigiKey_Part_Number" value="EG5350TR-ND"/>
+      <property name="MF" value="E-Switch"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.8 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=snap"/>
+      <property name="MP" value="TL3305AF160QG"/>
+      <property name="Purchase-URL" value="https://pricing.snapeda.com/search?q=TL3305AF160QG&amp;ref=eda"/>
+      <property name="Description" value="&#xA;Tactile Switch SPST-NO Top Actuated Surface Mount&#xA;"/>
+      <property name="MANUFACTURER" value="E-Switch"/>
+      <property name="SNAPEDA_PN" value="TL3305AF160QG"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df795d53-d587-4ac5-87ef-f2fa84f653ed</tstamps>
+    </comp>
+    <comp ref="S4">
+      <value>TL3305AF160QG</value>
+      <footprint>Button:SW_TL3305AF160QG</footprint>
+      <fields>
+        <field name="Check_prices">https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=eda</field>
+        <field name="Description">
+Tactile Switch SPST-NO Top Actuated Surface Mount
+</field>
+        <field name="DigiKey_Part_Number">EG5350TR-ND</field>
+        <field name="MANUFACTURER">E-Switch</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.8 mm</field>
+        <field name="MF">E-Switch</field>
+        <field name="MP">TL3305AF160QG</field>
+        <field name="PARTREV">C</field>
+        <field name="Package">None</field>
+        <field name="Purchase-URL">https://pricing.snapeda.com/search?q=TL3305AF160QG&amp;ref=eda</field>
+        <field name="SNAPEDA_PN">TL3305AF160QG</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Button" part="TL3305AF160QG" description=""/>
+      <property name="DigiKey_Part_Number" value="EG5350TR-ND"/>
+      <property name="MF" value="E-Switch"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.8 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=snap"/>
+      <property name="MP" value="TL3305AF160QG"/>
+      <property name="Purchase-URL" value="https://pricing.snapeda.com/search?q=TL3305AF160QG&amp;ref=eda"/>
+      <property name="Description" value="&#xA;Tactile Switch SPST-NO Top Actuated Surface Mount&#xA;"/>
+      <property name="MANUFACTURER" value="E-Switch"/>
+      <property name="SNAPEDA_PN" value="TL3305AF160QG"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dcf0301-5299-4309-86e4-bcf365a05d9e</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LTC3532EMS-PBF</value>
+      <footprint>LTC3532:MSOP-10_MS_LIT</footprint>
+      <libsource lib="LTC3532" part="LTC3532EMS-PBF" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064b5e623</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>THING_PLUS_LOGICAL</value>
+      <footprint>Module:ESP32_Thing_Plus_C_hat</footprint>
+      <libsource lib="thing_plus_logical" part="THING_PLUS_LOGICAL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1529917-40d9-4105-a427-716cf7bebf0c</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>AHT20</value>
+      <footprint>AHT20:PSON100P300X300X110-6N</footprint>
+      <fields>
+        <field name="MANUFACTURER">Asair</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1mm</field>
+        <field name="PARTREV">V1.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="AHT20" part="AHT20" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1mm"/>
+      <property name="MANUFACTURER" value="Asair"/>
+      <property name="PARTREV" value="V1.0"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064b539fd</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>AHT20</value>
+      <footprint>AHT20:PSON100P300X300X110-6N</footprint>
+      <fields>
+        <field name="MANUFACTURER">Asair</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1mm</field>
+        <field name="PARTREV">V1.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="AHT20" part="AHT20" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1mm"/>
+      <property name="MANUFACTURER" value="Asair"/>
+      <property name="PARTREV" value="V1.0"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064b55802</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>AHT20</value>
+      <footprint>AHT20:PSON100P300X300X110-6N</footprint>
+      <fields>
+        <field name="MANUFACTURER">Asair</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1mm</field>
+        <field name="PARTREV">V1.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="AHT20" part="AHT20" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1mm"/>
+      <property name="MANUFACTURER" value="Asair"/>
+      <property name="PARTREV" value="V1.0"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RBOP04.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000064b568af</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="AHT20" part="AHT20">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AHT20</field>
+        <field name="Footprint">PSON100P300X300X110-6N</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1mm</field>
+        <field name="MANUFACTURER">Asair</field>
+        <field name="PARTREV">V1.0</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="SCL" type="input"/>
+        <pin num="4" name="SDA" type="bidirectional"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Battery Holder" part="2462">
+      <docs>2462</docs>
+      <footprints>
+        <fp>2462_KEY</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">B</field>
+        <field name="Value">2462</field>
+        <field name="Footprint">2462_KEY</field>
+        <field name="Datasheet">2462</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Button" part="TL3305AF160QG">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">TL3305AF160QG</field>
+        <field name="Footprint">SW_TL3305AF160QG</field>
+        <field name="DigiKey_Part_Number">EG5350TR-ND</field>
+        <field name="MF">E-Switch</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.8 mm</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TL3305AF160QG/E-Switch/view-part/?ref=snap</field>
+        <field name="MP">TL3305AF160QG</field>
+        <field name="Purchase-URL">https://pricing.snapeda.com/search?q=TL3305AF160QG&amp;ref=eda</field>
+        <field name="Description">
+Tactile Switch SPST-NO Top Actuated Surface Mount
+</field>
+        <field name="MANUFACTURER">E-Switch</field>
+        <field name="SNAPEDA_PN">TL3305AF160QG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LTC3532" part="LTC3532EMS-PBF">
+      <footprints>
+        <fp>MSOP-10_MS_LIT</fp>
+        <fp>MSOP-10_MS_LIT-M</fp>
+        <fp>MSOP-10_MS_LIT-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LTC3532EMS-PBF</field>
+        <field name="Footprint">MSOP-10_MS_LIT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RT" type="unspecified"/>
+        <pin num="2" name="BURST" type="unspecified"/>
+        <pin num="3" name="SW1" type="unspecified"/>
+        <pin num="4" name="SW2" type="unspecified"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="VOUT" type="output"/>
+        <pin num="7" name="VIN" type="input"/>
+        <pin num="8" name="*SHDN/SS" type="unspecified"/>
+        <pin num="9" name="FB" type="output"/>
+        <pin num="10" name="VC" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="thing_plus_logical" part="THING_PLUS_LOGICAL">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">THING_PLUS_LOGICAL</field>
+        <field name="Footprint">SparkFun_Thing_Plus_ESP32_WROOM_C:THING_PLUS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="21/SDA" type="bidirectional"/>
+        <pin num="2" name="22/SCL" type="bidirectional"/>
+        <pin num="3" name="14" type="bidirectional"/>
+        <pin num="4" name="32" type="bidirectional"/>
+        <pin num="5" name="15" type="bidirectional"/>
+        <pin num="6" name="33" type="bidirectional"/>
+        <pin num="7" name="27" type="bidirectional"/>
+        <pin num="8" name="12" type="bidirectional"/>
+        <pin num="9" name="13/LED" type="bidirectional"/>
+        <pin num="10" name="V_USB" type="bidirectional"/>
+        <pin num="11" name="EN" type="bidirectional"/>
+        <pin num="12" name="V_BATT" type="bidirectional"/>
+        <pin num="13" name="4/FREE" type="bidirectional"/>
+        <pin num="14" name="17/TX" type="bidirectional"/>
+        <pin num="15" name="16/RX" type="bidirectional"/>
+        <pin num="16" name="19/POCI" type="bidirectional"/>
+        <pin num="17" name="23/PICO" type="bidirectional"/>
+        <pin num="18" name="18/SCK" type="bidirectional"/>
+        <pin num="19" name="35/A5" type="bidirectional"/>
+        <pin num="20" name="36/A4" type="bidirectional"/>
+        <pin num="21" name="39/A3" type="bidirectional"/>
+        <pin num="22" name="34/A2" type="bidirectional"/>
+        <pin num="23" name="25/A1" type="bidirectional"/>
+        <pin num="24" name="26/A0" type="bidirectional"/>
+        <pin num="25" name="GND" type="bidirectional"/>
+        <pin num="26" name="AREF/NC" type="bidirectional"/>
+        <pin num="27" name="3.3V" type="bidirectional"/>
+        <pin num="28" name="~{RESET}" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="AHT20">
+      <uri>/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/Footprints/AHT20/AHT20.lib</uri>
+    </library>
+    <library logical="Battery Holder">
+      <uri>/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/Footprints/ul_2462/KiCADv6/2023-08-15_06-29-00.kicad_sym</uri>
+    </library>
+    <library logical="Button">
+      <uri>/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/Footprints/TL3305AF160QG/TL3305AF160QG.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="LTC3532">
+      <uri>/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/Footprints/ul_LTC3532EMS-PBF/KiCADv6/2023-08-15_05-06-33.kicad_sym</uri>
+    </library>
+    <library logical="thing_plus_logical">
+      <uri>/Users/Ciaran/Documents/Research/Funding/SfTI/RBOP04/PCB/RBOP04/thing_plus_logical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="!SHDN">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="*SHDN/SS" pintype="unspecified"/>
+    </net>
+    <net code="2" name="DD">
+      <node ref="S3" pin="1" pintype="passive"/>
+      <node ref="S3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="33" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="B1" pin="1" pintype="unspecified"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="Rt1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="25" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="4" name="HH">
+      <node ref="S2" pin="1" pintype="passive"/>
+      <node ref="S2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="27" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="MM">
+      <node ref="S4" pin="1" pintype="passive"/>
+      <node ref="S4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="15" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(Rt1-Pad1)">
+      <node ref="Rt1" pin="1" pintype="passive"/>
+      <node ref="Rt2" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(U1-BURST)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="BURST" pintype="unspecified"/>
+    </net>
+    <net code="16" name="Net-(U1-FB)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="FB" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(U1-RT)">
+      <node ref="Rt2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="RT" pintype="unspecified"/>
+    </net>
+    <net code="18" name="Net-(U1-SW1)">
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="SW1" pintype="unspecified"/>
+    </net>
+    <net code="19" name="Net-(U1-SW2)">
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="SW2" pintype="unspecified"/>
+    </net>
+    <net code="20" name="Net-(U1-VC)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="VC" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(U2-EN)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="EN" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="Net-(U2-~{RESET})">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="28" pinfunction="~{RESET}" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="SCL1">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="21/SDA" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="24" name="SCL2">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="22/SCL" pintype="bidirectional"/>
+      <node ref="U4" pin="3" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="25" name="SCL3">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="14" pintype="bidirectional"/>
+      <node ref="U5" pin="3" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="26" name="SDA1">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="4/FREE" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="SDA2">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="17/TX" pintype="bidirectional"/>
+      <node ref="U4" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="SDA3">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="16/RX" pintype="bidirectional"/>
+      <node ref="U5" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="SENSOR_GND">
+      <node ref="U2" pin="16" pinfunction="19/POCI" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="VDD">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="S1" pin="3" pintype="passive"/>
+      <node ref="S1" pin="4" pintype="passive"/>
+      <node ref="S2" pin="3" pintype="passive"/>
+      <node ref="S2" pin="4" pintype="passive"/>
+      <node ref="S3" pin="3" pintype="passive"/>
+      <node ref="S3" pin="4" pintype="passive"/>
+      <node ref="S4" pin="3" pintype="passive"/>
+      <node ref="S4" pin="4" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VOUT" pintype="output"/>
+      <node ref="U2" pin="27" pinfunction="3.3V" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="31" name="Vbatt">
+      <node ref="B1" pin="2" pintype="unspecified"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VIN" pintype="input"/>
+      <node ref="U2" pin="24" pinfunction="26/A0" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="mm">
+      <node ref="S1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="12" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="unconnected-(S1-Pad2)">
+      <node ref="S1" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="unconnected-(U2-13{slash}LED-Pad9)">
+      <node ref="U2" pin="9" pinfunction="13/LED" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U2-18{slash}SCK-Pad18)">
+      <node ref="U2" pin="18" pinfunction="18/SCK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U2-23{slash}PICO-Pad17)">
+      <node ref="U2" pin="17" pinfunction="23/PICO" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U2-25{slash}A1-Pad23)">
+      <node ref="U2" pin="23" pinfunction="25/A1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U2-32-Pad4)">
+      <node ref="U2" pin="4" pinfunction="32" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U2-34{slash}A2-Pad22)">
+      <node ref="U2" pin="22" pinfunction="34/A2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U2-35{slash}A5-Pad19)">
+      <node ref="U2" pin="19" pinfunction="35/A5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U2-36{slash}A4-Pad20)">
+      <node ref="U2" pin="20" pinfunction="36/A4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U2-39{slash}A3-Pad21)">
+      <node ref="U2" pin="21" pinfunction="39/A3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U2-AREF{slash}NC-Pad26)">
+      <node ref="U2" pin="26" pinfunction="AREF/NC" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U2-V_BATT-Pad12)">
+      <node ref="U2" pin="12" pinfunction="V_BATT" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="unconnected-(U2-V_USB-Pad10)">
+      <node ref="U2" pin="10" pinfunction="V_USB" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U3-NC-Pad1)">
+      <node ref="U3" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U3-NC-Pad6)">
+      <node ref="U3" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U4-NC-Pad1)">
+      <node ref="U4" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U4-NC-Pad6)">
+      <node ref="U4" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U5-NC-Pad1)">
+      <node ref="U5" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U5-NC-Pad6)">
+      <node ref="U5" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
